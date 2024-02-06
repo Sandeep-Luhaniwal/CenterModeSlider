@@ -57,17 +57,17 @@
 
 .testimonial_slider div:has(+ .slick-center) {
     transform: scale(1.5);
-    z-index: 20 !important;
+    z-index: 2 !important;
 }
 
 .testimonial_slider .slick-center+div {
     transform: scale(1.5);
-    z-index: 20 !important;
+    z-index: 2 !important;
 }
 
 .testimonial_slider .slick-slide {
     transform: scale(1);
-    z-index: 10 !important;
+    z-index: 1 !important;
 }
 
 
